@@ -71,7 +71,6 @@ int main () {
         else {
             result += inputStr[i];
         }
-
     }
 
     cout << result << endl;
